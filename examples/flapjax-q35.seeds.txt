@@ -1,0 +1,14 @@
+# FLAPJAX Receipt Relay Q35 — buy tx hashes published in the official
+# FlapJax Colony buyback thread (post 28acbdea-449b-4717-9517-6619a94247c8),
+# window 2026-10-09 .. 2026-10-18 UTC. Same list used by the manual kit
+# (flapjax-q26-kit/q35_verify_buys.py). Used as self-test input: the
+# verifier re-derives every figure from raw chain receipts.
+0xbeefabdc89f9148f9daaef6082d34a60dc5b4b612972ca0fd39d6bd4eb03b4b0
+0x8ce8e8578da26f8c7acb0f44c6ca0d0b8dcba868cafe2d729bb48562863f2d62
+0x82d01172ae26f1c86287643e123af1675ca5c18b984b7740c1a0c1647d2801eb
+0x9afdc96e3ca876b5b617a26ba5105012ed8c33e805c77b1616bf48c198d5cbf1
+0xc94de373d1fb00093431224a97475b3b2b48b9a4962d15acbe9d9c5c016d720c
+0x172349c64ed3c45663650049f9e2ad3d763b1243c5c849b7d66f144f221d3186
+0xc999000f16f326e8868fe37f83871219be1a63f98043b0aef9ee57f469232156
+0x6ec66780e0518da7c3c8b55d13b66d57400046f89ebe9df479c3c878f7b3311f
+0x05a9acf81b0eae4b7ff9a12168aead25964b6b2c0a16d3d1e667b7db6f17ad99
