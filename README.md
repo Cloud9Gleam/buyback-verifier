@@ -188,3 +188,7 @@ What actually happened in this sandbox, honestly:
 
 Generated self-test outputs are kept in `selftest/` (`report.md`,
 `report.html`, `report.json`).
+
+## Live site
+
+Related audit research and ERC-4626 guides: https://n1netw3n.live/guides/
